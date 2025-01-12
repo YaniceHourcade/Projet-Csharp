@@ -1,0 +1,5 @@
+# .gitignore
+ApplicationMeteo/bin/
+ApplicationMeteo/obj/
+config.json
+options.json
